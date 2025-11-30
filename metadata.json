@@ -1,0 +1,5 @@
+{
+  "name": "TuitionFlow AI",
+  "description": "An AI-powered dashboard to automate tuition fee tracking, calculation, and bilingual WhatsApp communication for tutors.",
+  "requestFramePermissions": []
+}
